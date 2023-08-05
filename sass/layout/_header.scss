@@ -1,0 +1,32 @@
+.header {
+  min-height: 8rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+}
+.header__logo {
+  position: absolute;
+  height: 55px;
+  width: 200px;
+  left: 12%;
+  top: 51%;
+  transform: translate(-50%, -50%);
+
+  @media only screen and (max-width: 768px) {
+    left: 15%;
+  }
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  @media only screen and (max-width: 768px) {
+    padding: 0 1rem;
+  }
+}

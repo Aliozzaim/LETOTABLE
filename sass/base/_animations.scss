@@ -1,0 +1,65 @@
+@keyframes nav-button-bottom {
+  0% {
+    top: 0;
+    opacity: 0;
+    visibility: initial;
+  }
+
+  100% {
+    opacity: 1;
+    top: 2rem;
+    visibility: initial;
+  }
+}
+
+@keyframes anim-nav-button {
+  0% {
+    background-color: #fff;
+  }
+
+  100% {
+    background-color: transparent;
+  }
+}
+
+@keyframes anim-nav-button-line-after {
+  0% {
+    transform: translateY(0);
+  }
+
+  30% {
+    transform: translateY(-6px);
+  }
+
+  100% {
+    transform: translateY(+6px) rotate(-45deg);
+  }
+}
+@keyframes anim-nav-button-line-before {
+  0% {
+    transform: translateY(0);
+  }
+
+  30% {
+    transform: translateY(6px);
+  }
+
+  100% {
+    transform: translateY(-6px) rotate(45deg);
+  }
+}
+
+@keyframes anim-sec__info {
+  0% {
+    opacity: 0;
+    transform: scale(0.75);
+  }
+  65% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

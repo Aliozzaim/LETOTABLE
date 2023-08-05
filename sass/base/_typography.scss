@@ -1,0 +1,19 @@
+.t1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: Catamaran, sans-serif;
+  margin-bottom: 1rem;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 1.4rem;
+  }
+}
+.t2 {
+  font-family: Catamaran, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  @media only screen and (max-width: 768px) {
+    font-size: 1.4rem;
+  }
+}
