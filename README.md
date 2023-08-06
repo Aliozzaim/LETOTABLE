@@ -4,7 +4,7 @@ LETOTABLE is a user interface project that allows users to manage and track expe
 
 ## Live Demo
 
-Check out the live demo here: [LETOTABLE Live](https://letotable-aliozzaim.vercel.app/)
+Check out the live demo here: [LETOTABLE live link](https://letotable-aliozzaim.vercel.app/)
 
 ## Features
 
