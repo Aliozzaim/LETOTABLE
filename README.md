@@ -15,7 +15,7 @@ Check out the live demo here: [LETOTABLE live](https://letotable-aliozzaim.verce
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone <[repository_url](https://github.com/Aliozzaim/LETOTABLE.git)>`
+1. Clone the repository: `git clone <[(https://github.com/Aliozzaim/LETOTABLE.git)](>`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
