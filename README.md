@@ -74,6 +74,7 @@ The project uses a sample dataset for demonstration purposes. The data is stored
 
 ## Data
 
+
 The application uses a predefined dataset in the `app.js` file. You can modify the data or replace it with dynamic data from an API.
 
 ## Dependencies
