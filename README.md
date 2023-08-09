@@ -80,7 +80,7 @@ The application uses a predefined dataset in the `app.js` file. You can modify t
 ## Dependencies
 
 - Material Components Web: The project uses Material Components Web for styling and layout.
-- jQuery: jQuery is used for DOM manipulation and event handling
+- jQuery: jQuery is used for DOM manipulation and event handling.
 
 ## Author
 
