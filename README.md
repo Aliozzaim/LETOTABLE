@@ -1,6 +1,6 @@
 # LETOTABLE
 
-LETOTABLE is a user interface project that allows users to manage and track expenses. The project provides a clean and user-friendly interface for viewing and filtering expenses.
+LETOTABLE is a user interface project that allows users to manage and track expenses. The project provides a clean and user-friendly interface for viewing and filtering expenses
 
 ## Live Demo
 
